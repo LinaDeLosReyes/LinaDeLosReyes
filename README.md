@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hello I'm Lina Ma De los Reyes
+## _I'm a professor and i help to former new Biologists and professionals in other careers_
 
-<!--
-**LinaDeLosReyes/LinaDeLosReyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a magister in Biological sciense and participed in several groups of investigation.
 
-Here are some ideas to get you started:
+## My professional experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍🏫 I have fifteen years as a professor
+
+👩‍🔬 I work in a human fertility lab for six year
+
+🧫 I have skills in cellular culture
+
+🐭 I work with rodents as animal model for a neurological disease for three years
+
+
+## Terminal comands
+
+📢 Five useful comands in the terminal that i learn at the bootcamp
+
+|  Comand |          Descripción               |
+|---------|------------------------------------|
+| **ls**  | It shows the list directory contens|
+| **pwd** | It shows the current working directory |
+| **cd**  | It allows to change the current directory |
+| **mkdir** | It allows to create a directory |
+| **touch** | It permit to make a file |
+
+## Alias comands
+| Comand |  Description |
+|--------|---------------|
+| **cl** | Clear  |
+|**rm**|  It sends the files to the trash |
