@@ -18,16 +18,16 @@ I have a magister in Biological sciense and participed in several groups of inve
 
 📢 Five useful comands in the terminal that i learn at the bootcamp
 
-|  Comand   |          Descripción               |
-|-----------|------------------------------------|
-| **ls**    | It shows the list directory contens|
-| **pwd**   | It shows the current working directory |
+|  Comand   |          Descripción                      |
+|-----------|-------------------------------------------|
+| **ls**    | It shows the list directory contens       |
+| **pwd**   | It shows the current working directory    |
 | **cd**    | It allows to change the current directory |
-| **mkdir** | It allows to create a directory |
-| **touch** | It permit to make a file |
+| **mkdir** | It allows to create a directory           |
+| **touch** | It permit to make a file                  |
 
 ## Alias comands
-| Comand |  Description |
-|--------|---------------|
-| **cl** | Clear the terminal |
-| **rm** |  It sends the files to the trash |
+| Comand          |  Description                     |
+|-----------------|----------------------------------|
+|**cl**= "clear"  | Clear the terminal               |
+| **rm**= "trash" |  It sends the files to the trash |
