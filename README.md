@@ -7,11 +7,11 @@ I have a magister in Biological sciense and participed in several groups of inve
 
 👩‍🏫 I have fifteen years as a professor
 
-👩‍🔬 I work in a human fertility lab for six year
+👩‍🔬 I was working in a human fertility lab for six year
 
 🧫 I have skills in cellular culture
 
-🐭 I work with rodents as animal model for a neurological disease for three years
+🐭 I was working with rodents as animal model for a neurological disease for three years
 
 
 ## Terminal comands
