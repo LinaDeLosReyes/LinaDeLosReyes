@@ -1,7 +1,7 @@
 # Hello I'm Lina Ma De los Reyes
 ## _I'm a professor and i help to former new Biologists and professionals in other careers_
 
-I have a magister in Biological sciense and participed in several groups of investigation.
+I have a magister in Biological science and participed in several groups of investigation.
 
 ## My professional experience
 
